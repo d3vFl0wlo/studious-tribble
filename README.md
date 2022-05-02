@@ -1,2 +1,4 @@
 # studious-tribble
- Repositório criado para agregar documentos, orientações e demais informações advindas de um grupo de estudos em Segurança de Dados
+ Este repositório tem por finalidade agregar informações provenientes de um grupo de estudos em Segurança da Informação.
+ Iremos agregar conhecimentos de base em redes, sistemas operacionais, desenvolvimento
+ e tudo mais que permeie a segurança em ambientes virtuais.
