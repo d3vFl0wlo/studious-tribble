@@ -7,4 +7,4 @@
 
 Conferência: Jitsi
 Reunião semanal:
-Qintas-feiras (ainda sendo definido)
+Quintas-feiras (ainda sendo definido)
