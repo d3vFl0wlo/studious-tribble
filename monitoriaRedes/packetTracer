@@ -1,0 +1,6 @@
+Criação de uma pequena rede corporativa utilizando packet tracer
+Mínimo:
+
+3Vlans com roteamento entre si;
+Servidores Web e DHCP;
+2 filiais conectadas por VPN.
